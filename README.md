@@ -1,5 +1,6 @@
 # all commend git and github
-<br>git add ----add single file
+<br>
+git add ----add single file
 git --version .....check git version
 git config --global user.name 'github username'
 git config --global user.email 'github username'
